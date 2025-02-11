@@ -1,5 +1,7 @@
+// Game Title: Milo's Adventure
 // Created by Garrett Jeltema
 // Started 2 / 3 / 2025
+// Hours Spent: 21
 // Creative Tilt:
 // One of the programming techniques that seems simple now but I struggled with understanding
 // for a while was implementing the cat spawn every 10 seconds. I figured this out through
